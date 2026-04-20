@@ -16,4 +16,7 @@ I used:
 
 # Project 2-> CAD keychain
 
-I made a cool keychain design with a heart shape.
+I made a cool keychain design with a heart shape (using onshape).
+
+<img width="308" height="283" alt="image" src="https://github.com/user-attachments/assets/090d4718-fc16-40f1-8b73-24ee34594475" />
+
